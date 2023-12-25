@@ -7,7 +7,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 @SpringBootApplication
 @RestController
-public class MovieApplication {
+public class  MovieApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(MovieApplication.class, args);
 	}
